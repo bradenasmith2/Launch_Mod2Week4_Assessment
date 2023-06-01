@@ -81,7 +81,7 @@
 
 ## Exercise (5 points possible)
 
-Fork the Replit below, and complete the 5 LINQ exercises.  Add a link to your forked repl here: <YOUR LINK HERE>
+Fork the Replit below, and complete the 5 LINQ exercises.  Add a link to your forked repl here:  * (https://replit.com/@bradenasmith/Mod2Week4Assessment-Braden-S#main.cs) *
 
 [https://replit.com/@launch-team/Mod2Week4Assessment](https://replit.com/@launch-team/Mod2Week4Assessment?v=1)
 
